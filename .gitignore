@@ -1,0 +1,5 @@
+# Secrets + runtime state — never commit, never share.
+server-config.json
+orders.json
+.env
+node_modules/
