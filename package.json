@@ -1,0 +1,13 @@
+{
+  "name": "muzamil-pay-server",
+  "version": "1.0.0",
+  "description": "MUZAMIL STUFF JazzCash payment server (pure Node.js, zero dependencies)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-self.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
